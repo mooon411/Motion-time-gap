@@ -4,7 +4,7 @@ npx create-react-app .
 npm i sass   
 npm i framer-motion   
 
-[Lenis](https://github.com/studio-freight/lenis)   
+[Lenis  바로가기](https://github.com/studio-freight/lenis)   
 npm i @studio-freight/lenis
 
    
